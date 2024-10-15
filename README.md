@@ -2,7 +2,11 @@ This project predicts Air Quality Index (AQI) using machine learning models. It 
 
 The project has key files:
 
+
 app.py: Flask application logic.
+
 model.py: Machine learning logic.
+
 HTML/CSS for UI and interaction.
+
 It aims to provide a user-friendly platform for AQI prediction based on pollutant data
